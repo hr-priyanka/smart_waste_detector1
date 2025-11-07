@@ -1,3 +1,9 @@
-opencv-python
+streamlit
+opencv-python-headless==4.8.1.78
 numpy
-pyttsx3
+pandas
+Pillow
+tensorflow
+torch
+torchvision
+matplotlib
